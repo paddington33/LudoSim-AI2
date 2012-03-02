@@ -1,7 +1,7 @@
 package LUDOSimulator;
 import java.util.Random;
 /**
- * Example of automatic LUDO player
+ * Example of automatic LUDO player test
  * @author David Johan Christensen
  * 
  * @version 0.9
